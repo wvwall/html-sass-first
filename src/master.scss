@@ -8,18 +8,10 @@
  $margin: 50px;
  $widht : 300px;
 
- h1 {
+ h1,
+ p,
+ button {
      color: $primarycolor;
      margin: $margin;
      width: $widht;
  }
- p {
-    color: $primarycolor;
-    margin: $margin;
-    width: $widht;
-}
-button {
-    color: $primarycolor;
-    margin: $margin;
-    width: $widht;
-}

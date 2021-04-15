@@ -4,18 +4,8 @@
   box-sizing: border-box;
 }
 
-h1 {
-  color: blue;
-  margin: 50px;
-  width: 300px;
-}
-
-p {
-  color: blue;
-  margin: 50px;
-  width: 300px;
-}
-
+h1,
+p,
 button {
   color: blue;
   margin: 50px;
