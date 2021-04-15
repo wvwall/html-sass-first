@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ $primarycolor: blue;
+ $margin: 50px;
+ $widht : 200px;
+
+ h1 {
+     color: $primarycolor;
+     margin: $margin;
+     width: $widht;
+ }
+ p {
+    color: $primarycolor;
+    margin: $margin;
+    width: $widht;
+}
+button {
+    color: $primarycolor;
+    margin: $margin;
+    width: $widht;
+}
